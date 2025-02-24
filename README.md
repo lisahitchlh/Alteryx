@@ -1,7 +1,7 @@
 # Alteryx
 A place for all my Alteryx projects
 
-### [Completed Alteryx Community Challenges: 36](https://community.alteryx.com/t5/Weekly-Challenges/bd-p/weeklychallenge#post_time|solved-and-unsolved||1)
+### [Completed Alteryx Community Challenges: 41](https://community.alteryx.com/t5/Weekly-Challenges/bd-p/weeklychallenge#post_time|solved-and-unsolved||1)
 Navigate through the folders to download my solution workbooks.
 <br>
 <br>
